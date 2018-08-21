@@ -1,4 +1,7 @@
 # InstaViewCS
+
+### NOTE: If You Want to view the image directly Use my HEROKU service @             instaprofile.herokuapp.com/insta/(username)
+
 #### This is the updated build after Instagram changed their API preferences in June.
 
 ## How To Use ?
